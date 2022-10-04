@@ -1,3 +1,3 @@
 # NutritionLabel
 
-Project to create a nutrition label in HTML & CSS.
+Project to create a nutrition label using HTML & CSS.
